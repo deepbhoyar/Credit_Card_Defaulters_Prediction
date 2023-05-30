@@ -37,7 +37,7 @@ knn,
 
 naive bayes.
 
-4 Appraoch Pipeline
+# Appraoch Pipeline
 Data Preprocessing
 
 Data Exploration
